@@ -14,9 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/esinunel"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"><alt="esinunel" height="30" width="40" /></a>
-</p>/a> 
-  
 <a href="https://linkedin.com/in/esinunel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esinunel" height="30" width="40" /></a>
 </p>
 
