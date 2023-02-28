@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esin</h1>
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFmMjM2N2VmNDlhMzMzNDZkMDY1YWRmZGFmNDBiMTg3YzJkOTczNyZjdD1n/D8KpfyMWk53FK/giphy.gif)
 <h3 align="center">Psychology undergraduate</h3>
 
 - 🔭 I’m currently working on [YetGen Core Python](https://yetkingencler.com/jump/)
